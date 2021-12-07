@@ -8,7 +8,7 @@ fields:
     required: true
   label: description
   description: Description of the site
-  default: The Malaysian Student Association of Ireland (MYSAI) a national                 student
+  default: The Malaysian Student Association of  a national                 student
     organization based in Ireland set up to provide welfare for the Malaysian student
     community.
 - name: main-image

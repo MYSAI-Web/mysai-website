@@ -8,9 +8,8 @@ fields:
     required: true
   label: description
   description: Description of the site
-  default: The Malaysian Student Association of  a national                 student
-    organization based in Ireland set up to provide welfare for the Malaysian student
-    community.
+  default: The Malaysian Student Association of  a national  student organization
+    based in Ireland set up to provide welfare for the Malaysian student community.
 - name: main-image
   type: file
   config:

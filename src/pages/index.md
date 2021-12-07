@@ -28,7 +28,7 @@ info:
 
        studying in Ireland both intellectually and ethically.
 - info-item:
-    info-title: Community Development
+    info-title: Community Developmen
     info-item-description: |-
       We believe that building up a community is the key to the empowerment
 
@@ -39,7 +39,7 @@ info:
        students can provide mutual support and seek help in times of need.
 description: The Malaysian Student Association of Ireland (MYSAI) a national student
   organisation based in Ireland set up to provide welfare for the Malaysian student
-  communityy.
+  community.
 main_image: "/v1616035966/image15_mqjweb.jpg"
 
 ---

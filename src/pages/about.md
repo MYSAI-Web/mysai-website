@@ -197,6 +197,6 @@ department:
     a type specimen book.
 
 ---
-The Malaysia Student Association of Ireland (MYSAI) a national student organisation based in Ireland set up to provide welfare for the Malaysian student community. We are a diverse yet united team of passionate and driven Malaysian students coming from 14 different institutions/universities all over Ireland with various academic backgrounds.
+The Malaysia Student Association of Ireland (MYSAI) a national student organization based in Ireland set up to provide welfare for the Malaysian student community. We are a diverse yet united team of passionate and driven Malaysian students coming from 14 different institutions/universities all over Ireland with various academic backgrounds.
 
-MYSAI was established around April 2019 and registered under Malaysian Government (Education Malaysia) in July 2019. Thus we are a registered society with the Malaysian Registrar of Societies. Since our establishment, we have formed links with international offices and student bodies which enable us to reach out to at least 600 students all across Ireland.
+MYSAI was established around April 2019 and registered under the Malaysian Government (Education Malaysia) in July 2019. Thus we are a registered society with the Malaysian Registrar of Societies. Since our establishment, we have formed links with international offices and student bodies which enable us to reach out to at least 600 students all across Ireland.

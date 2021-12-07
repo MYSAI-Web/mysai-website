@@ -115,17 +115,6 @@ department:
     community. We are a diverse yet united team of passionate and driven Malaysian
     students coming from 14 different institutions/universities all over Ireland with
     various academic backgrounds.
-- department_name: Secretarial
-  team_member:
-  - member_name: Joey Eng Sze Jann
-    member_course: 2nd Year Medicine
-    member_school: University College Dublin
-  - member_name: Gabriel Hang
-    member_course: 2nd Year Computing in Software Development
-    member_school: Galway-Mayo Institute of Technology
-  description: Lorem Ipsum has been the industry's standard dummy text ever since
-    the 1500s, when an unknown printer took a galley of type and scrambled it to make
-    a type specimen book.
 - department_name: Treasury
   team_member:
   - member_name: Erin Pung
@@ -142,6 +131,17 @@ department:
   - member_name: E Qing Kee
     member_course: 2nd Year Psychology
     member_school: National College of Ireland
+  description: Lorem Ipsum has been the industry's standard dummy text ever since
+    the 1500s, when an unknown printer took a galley of type and scrambled it to make
+    a type specimen book.
+- department_name: Secretarial
+  team_member:
+  - member_name: Joey Eng Sze Jann
+    member_course: 2nd Year Medicine
+    member_school: University College Dublin
+  - member_name: Gabriel Hang
+    member_course: 2nd Year Computing in Software Development
+    member_school: Galway-Mayo Institute of Technology
   description: Lorem Ipsum has been the industry's standard dummy text ever since
     the 1500s, when an unknown printer took a galley of type and scrambled it to make
     a type specimen book.

@@ -28,7 +28,7 @@ info:
 
        studying in Ireland both intellectually and ethically.
 - info-item:
-    info-title: Community Developmen
+    info-title: Community Development
     info-item-description: |-
       We believe that building up a community is the key to the empowerment
 

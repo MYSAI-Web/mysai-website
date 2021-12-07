@@ -2,6 +2,18 @@
 templateKey: index-template
 info:
 - info-item:
+    info-title: Developing Talent
+    info-item-description: |-
+      Within our association, we also made it our goal to develop leadership
+
+       skills and technical intellect which could improve career prospects.
+
+       Consisting of up to 40 committee members, MYSAI holds frequent welfare
+
+       related events aiming to enhance Malaysian students’ experience of
+
+       studying in Ireland both intellectually and ethically.
+- info-item:
     info-title: Uniting Malaysians
     info-item-description: |-
       The Malaysian Student Association of Ireland (MYSAI) a national
@@ -15,18 +27,6 @@ info:
        institutions/universities all over Ireland with various academic
 
        backgrounds.
-- info-item:
-    info-title: Developing Talent
-    info-item-description: |-
-      Within our association, we also made it our goal to develop leadership
-
-       skills and technical intellect which could improve career prospects.
-
-       Consisting of up to 40 committee members, MYSAI holds frequent welfare
-
-       related events aiming to enhance Malaysian students’ experience of
-
-       studying in Ireland both intellectually and ethically.
 - info-item:
     info-title: Community Development
     info-item-description: |-
